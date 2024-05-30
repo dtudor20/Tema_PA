@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1717097914 source:c:\codeblocks\codsursa\functii.c
+
+1717101135 source:c:\codeblocks\codsursa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"functii.h"
+
+1717095211 c:\codeblocks\codsursa\functii.h
+
